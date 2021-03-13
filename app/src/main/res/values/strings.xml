@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Git User List</string>
+    <string name="exit">Exit</string>
+    <string name="type">Type:</string>
+    <string name="load_more"><u>Load More…</u></string>
+    <string name="name">Username:</string>
+    <string name="name_label">Name:</string>
+    <string name="followers">Followers:</string>
+    <string name="following">Following:</string>
+    <string name="company">Company:</string>
+    <string name="blog">Blog:</string>
+    <string name="title_detail">Preview Detail</string>
+    <string name="notes">Notes:</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="ignore">Ignore</string>
+    <string name="input_search">Search</string>
+</resources>
